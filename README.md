@@ -1,4 +1,4 @@
 # Lionic
 Сайт компании Lionic
 
-http://konstantin-burkin.github.io.lionic/
+https://konstantin-burkin.github.io/Lionic/
